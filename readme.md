@@ -1,5 +1,7 @@
 ### wechaty开发的下载表情工具人
 
+详细分析 请看 https://segmentfault.com/a/1190000038257919
+
 [![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-green.svg)](https://github.com/chatie/wechaty)
 [![Wechaty开源激励计划](https://img.shields.io/badge/Wechaty-开源激励计划-green.svg)](https://github.com/juzibot/Welcome/wiki/Everything-about-Wechaty)
 
